@@ -1,6 +1,6 @@
 {
     "name": "chrome_extension_flutter",
-    "description": "How to create chrome extension using Flutter 2",
+    "description": "How to create chrome extension using Flutter",
     "version": "1.0.0",
     "content_security_policy": {
         "extension_pages": "script-src 'self' ; object-src 'self'"
